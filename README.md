@@ -22,11 +22,12 @@ Currently, the encoder is for volume, and the keys do simple f7-f9 functions. On
 
 
 BOM:
-3x Cherry MX Switches
-3x DSA Keycaps
-4x M3x5x4 Heatset inserts
-3x M3x16mm SHCS Bolts
-1x 0.91" 128x32 OLED Display
-1x EC11 Rotary Encoder
-1x XIAO RP2040
-1x Case (top and bottom)
+
+- 3x Cherry MX Switches
+- 3x DSA Keycaps
+- 4x M3x5x4 Heatset inserts
+- 3x M3x16mm SHCS Bolts
+- 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case (top and bottom)
